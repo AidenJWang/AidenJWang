@@ -1,4 +1,4 @@
-### Hi there 👋 I am an aspiring computer engineer attending Virginia Tech. I seek to further my education and ultimately contribute to the constant innovation in this field as a career.
+### Hi there 👋 I am an aspiring computer engineer attending Virginia Tech. I seek to further my education and ultimately become qualified to contribute to innovation in this field at a professional level. As for my values, I seek to direct my work toward bringing more convenience to people all around the world, making communities more interconnected than they have ever been.
 - Undergraduate Computer Engineer @ Virginia Tech 2026
 - Email: waiden@vt.edu
 
