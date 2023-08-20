@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Undergraduate Computer Engineer @ Virginia Tech
--Class of 2026
+- Class of 2026
 
 <!--
 **AidenJWang/AidenJWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
