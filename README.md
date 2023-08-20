@@ -1,6 +1,6 @@
-### Hi there 👋
-- Undergraduate Computer Engineer @ Virginia Tech
-- Class of 2026
+### Hi there 👋 I am an aspiring computer engineer attending Virginia Tech. I seek to further my education and ultimately contribute to the constant innovation in this field as a career.
+- Undergraduate Computer Engineer @ Virginia Tech 2026
+- Email: waiden@vt.edu
 
 <!--
 **AidenJWang/AidenJWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
